@@ -1,3 +1,4 @@
 # created by virtualenv automatically
 __pycache__
-dcrm/__pycache__
+dcrm/dcrm/__pycache__
+dcrm/dcrm/__pycache__/*
